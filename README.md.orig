@@ -1,0 +1,13 @@
+# git-practice
+このリポジトリはGit動画講座用です．
+ローカル
+new-feature branch　changed
+Conflict changed
+Github上で更新
+<<<<<<< HEAD
+stash練習用
+stash練習
+2nd Changed!
+=======
+Again!
+>>>>>>> f600fbeaa19c7a3b5a76e2ee7181033a426c0efa
